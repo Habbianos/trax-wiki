@@ -1,0 +1,10 @@
+{
+  "name": "trax-wiki",
+  "version": "1.0.0",
+  "description": "Welcome to the official content repository for [Traxmachine Wiki](https://traxmachine.com)!   This repo contains structured, community-curated content used by the Traxmachine platform.",
+  "keywords": ["music", "community", "wiki", "open-data", "traxmachine"],
+  "license": "CC BY 4.0",
+  "dependencies": {
+    "zod": "^3.25.31"
+  }
+}

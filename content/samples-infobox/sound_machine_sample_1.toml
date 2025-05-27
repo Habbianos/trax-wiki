@@ -1,0 +1,24 @@
+id = "sound_machine_sample_1"
+sampleBy = "Habbo Hotel"
+
+[details]
+soundPack = 1
+identifier = 1
+symbol = "circle"
+length = 2
+
+[[details.download]]
+label = "MP3 file hosted by Habbo Hotel"
+url = "https://images.habbo.com/dcr/hof_furni/mp3/sound_machine_sample_1.mp3"
+
+[[details.download]]
+label = "WAV file hosted on GitHub"
+url = "https://github.com/Habbianos/Traxmachine/raw/refs/heads/main/assets/audio/wav/sound_machine_sample_1.wav"
+
+[musicality]
+genre = "Electronic, Techno"
+soundSource = "Bass, Guitar, FX"
+mood = "Energetic"
+key = "D Minor"
+tempo = "Fast (90~140 BPM)"
+purpose = "Loops"
