@@ -1,0 +1,14 @@
+id: hhus-dance-a-thon-finals
+name: Dance-A-Thon Finals!
+description: It's a Diner Dance-Off!
+date: 2008-08-02
+labels:
+  - Competition
+links:
+  - url: https://www.habbo.com/community/article/509/dance-a-thon-finals
+    label: News article
+  - url: https://images.habbo.com/habbo-web-news/en/production/articles/509_dance_a_thon_finals.html
+    label: News article (raw)
+related:
+  - hhus-dance-a-thon-competition
+  - hhus-dance-a-thon-audition

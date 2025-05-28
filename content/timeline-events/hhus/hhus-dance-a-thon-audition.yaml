@@ -1,0 +1,14 @@
+id: hhus-dance-a-thon-audition
+name: Dance-A-Thon Audition
+description: Thousands of Habbos submitted their names for a chance to compete in the Dance-A-Thon.
+date: 2008-07-31
+labels:
+  - Competition
+links:
+  - url: https://www.habbo.com/community/article/504/dance-a-thon-audition-winners
+    label: News article
+  - url: https://images.habbo.com/habbo-web-news/en/production/articles/504_dance_a_thon_audition_winners.html
+    label: News article (raw)
+related:
+  - hhus-dance-a-thon-competition
+  - hhus-dance-a-thon-finals

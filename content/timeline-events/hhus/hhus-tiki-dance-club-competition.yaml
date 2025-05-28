@@ -1,0 +1,13 @@
+id: hhus-tiki-dance-club-competition
+name: Tiki Dance Club Competition
+description: Do you throw the best parties in Habbo? Here's your chance to get recognized for your talents.
+date: 2008-07-12
+labels:
+  - Competition
+links:
+  - url: https://www.habbo.com/community/article/440/tiki-dance-club-competition
+    label: News article
+  - url: https://images.habbo.com/habbo-web-news/en/production/articles/440_tiki_dance_club_competition.html
+    label: News article (raw)
+related:
+  - hhus-tiki-dance-clubs-legends

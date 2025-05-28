@@ -1,0 +1,13 @@
+id: hhus-tiki-dance-clubs-legends
+name: Tiki Dance Clubs Legends
+description: The results are in from the Tiki Dance Club competition.
+date: 2008-07-16
+labels:
+  - Competition
+links:
+  - url: https://www.habbo.com/community/article/455/tiki-dance-clubs-legends
+    label: News article
+  - url: https://images.habbo.com/habbo-web-news/en/production/articles/455_tiki_dance_clubs_legends.html
+    label: News article (raw)
+related:
+  - hhus-tiki-dance-club-competition

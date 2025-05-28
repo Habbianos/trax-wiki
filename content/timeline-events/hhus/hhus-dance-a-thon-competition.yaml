@@ -1,0 +1,14 @@
+id: hhus-dance-a-thon-competition
+name: Dance-A-Thon competition
+description: We're looking for the best dance couple in Habbo.
+date: 2008-07-31
+labels:
+  - Competition
+links:
+  - url: https://www.habbo.com/community/article/490/dance-a-thon
+    label: News article
+  - url: https://images.habbo.com/habbo-web-news/en/production/articles/490_dance_a_thon.html
+    label: News article (raw)
+related:
+  - hhus-dance-a-thon-audition
+  - hhus-dance-a-thon-finals
