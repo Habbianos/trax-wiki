@@ -1,0 +1,17 @@
+id = 14
+class = "sound_set_14"
+name = "Cameron's Ex"
+description = "Just in grooves"
+masterclass = "Electro"
+image = "https://images.habbo.com/dcr/hof_furni/45508/sound_set_14_icon.png"
+mainColor = "#6699FF"
+caseColor = "#336699"
+preview = "https://images.habbo.com/c_images/album2348/Camerons_Ex.mp3"
+
+[releaseDate]
+hhfi = "08/03/2007"
+hhus = "20/06/2007"
+hhbr = "15/06/2007"
+hhous = "04/11/2024"
+hhoes = "04/11/2024"
+hhobr = "04/11/2024"

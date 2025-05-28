@@ -1,0 +1,17 @@
+id = 28
+class = "sound_set_28"
+name = "Moshy Metal"
+description = "Mosh pit time"
+masterclass = "Heavy"
+image = "https://images.habbo.com/dcr/hof_furni/45508/sound_set_28_icon.png"
+mainColor = "#FF3300"
+caseColor = "#666666"
+preview = "https://images.habbo.com/c_images/album2348/Moshy_Metal.mp3"
+
+[releaseDate]
+hhfi = "08/03/2007"
+hhus = "20/06/2007"
+hhbr = "15/06/2007"
+hhous = "04/11/2024"
+hhoes = "04/11/2024"
+hhobr = "04/11/2024"

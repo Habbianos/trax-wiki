@@ -9,8 +9,8 @@ export const timelineEventSchema = z.object({
   date: z.coerce.date(),
   labels: z.array(z.string()).optional(),
   links: z.array(z.union([
-    z.string(),
-    z.object({ url: z.string(), label: z.string() })
+    z.string().url(),
+    z.object({ url: z.string().url(), label: z.string() })
   ])).optional(),
   related: z.array(z.string()).optional(),
 })
@@ -37,10 +37,10 @@ export const sampleInfoboxSchema = z.object({
     ]),
     length: z.number(),
     download: z.union([
-      z.string(),
+      z.string().url(),
       z.array(z.object({
         label: z.string(),
-        url: z.string(),
+        url: z.string().url(),
       }))
     ]),
   }),
@@ -53,4 +53,26 @@ export const sampleInfoboxSchema = z.object({
     tempo: z.string(),
     purpose: z.string(),
   }),
+})
+
+// Folder name: `packs-infobox/`
+// File type: `.toml`
+export const soundPackInfoboxSchema = z.object({
+  id: z.coerce.number(),
+  class: z.string(),
+  name: z.string(),
+  description: z.string(),
+  masterclass: z.string(),
+  image: z.union([
+    z.string().url(),
+    z.object({
+      icon: z.string().url(),
+      furni: z.string().url().optional(),
+      furniSmall: z.string().url().optional(),
+    })
+  ]),
+  mainColor: z.string(), // HEX color
+  caseColor: z.string(), // HEX color
+  preview: z.string().url(),
+  releaseDate: z.record(z.string(), z.coerce.date()) // hotel => "DD/MM/YYYY"
 })

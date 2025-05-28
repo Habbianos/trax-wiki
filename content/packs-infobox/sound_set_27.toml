@@ -1,0 +1,17 @@
+id = 27
+class = "sound_set_27"
+name = "Rasta.Claus's Pack"
+description = "Reggae flavors"
+masterclass = "Reggae"
+image = "https://images.habbo.com/dcr/hof_furni/45508/sound_set_27_icon.png"
+mainColor = "#FFCC00"
+caseColor = "#996600"
+preview = "https://images.habbo.com/c_images/album2348/Rasta_Santa.mp3"
+
+[releaseDate]
+hhfi = "08/03/2007"
+hhus = "20/06/2007"
+hhbr = "15/06/2007"
+hhous = "04/11/2024"
+hhoes = "04/11/2024"
+hhobr = "04/11/2024"
